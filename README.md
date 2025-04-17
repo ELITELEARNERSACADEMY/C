@@ -1,5 +1,5 @@
         About this repository
-hello guys, this repo is open to anyone interested in c programming languange,  make use of the resources available, contributors you are welcome. we look for to working with you please time to view the code, if you notice any errors we are happy to be corrected
+hello guys, this repo is open to anyone interested in c programming languange,  make use of the resources available, contributors you are welcome. we look forward to working with you. Please take your time to view the code and use them legal works, if you notice any errors we are happy to be corrected, folk to contribute .
 
 
 
