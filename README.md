@@ -1,3 +1,17 @@
+        About this repository
+hello guys, this repo is open to anyone interested in c programming languange,  make use of the resources available, contributors you are welcome. we look for to working with you please time to view the code, if you notice any errors we are happy to be corrected
+
+
+
+
+
+Official Site : Elite Learners academy
+https://www.elitelearnersacademy.com
+
+contanct : elitelearnersacademy2024@gmail.com
+
+contributed Joseph Tembo
+
 # Pro88 
 lets explore c programming language
 //first code in c programming 
@@ -10,15 +24,3 @@ lets explore c programming language
  return 0;
  }
 */
-        // Explaination
-        //all the following are obligatoiry
-// # is special character that specifies that that the defintion is a micro to viewed in details later 
-//include is a key word for including a  library
-/*<stdio.h> stands for standard input out its  library thta contains predefined function like printf(), scanf() etc 
-*/
-
-/*int is a primitive data type, in this case it indicates that the datatype to be returned */ 
-//main is a principle function 
-/* open and closed curl brackets indicate the begining and the end of a block of code */
-//return is keyword for giving out the final result of a function 
-// ; semi colon ends the line of code 
